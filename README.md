@@ -1,6 +1,9 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This game is a version of tic-tac-toe where you play as normal until each player has 3 pieces on the board. Once there are 3 pieces the "Moving Phase" begins where you 
+must now move currently placed pieces in an effort to get 3 in a row. If the current player has a piece in the center they are forced to move the center piece unless a winning
+play with another piece is available.
 
 ## Available Scripts
 
